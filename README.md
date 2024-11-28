@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+![Julia's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliaduboisas&theme=algolia&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliaduboisas&layout=compact&theme=algolia&show_icons=true)](https://github.com/juliaduboisas/github-readme-stats)
+
 <!--
 **juliaduboisas/juliaduboisas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
